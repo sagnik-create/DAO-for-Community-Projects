@@ -6,10 +6,6 @@ DAO for Community Projects
 ## Project Description
 Create a decentralized autonomous organization that funds community initiatives.
 
-
-![image](https://github.com/user-attachments/assets/082cd324-801b-490a-8ee3-8080eb5f2161)
-
-
 ## Project Vision
 The DAO for Community Projects aims to decentralize decision-making and empower community members to fund and execute meaningful initiatives. By utilizing blockchain technology, the project ensures transparency, security, and trust in fund allocation.
 
@@ -28,4 +24,5 @@ The DAO for Community Projects aims to decentralize decision-making and empower 
 - Community-driven governance
 ## Contract address
 0xd9145CCE52D386f254917e481eB44e9943F39138
+![image](https://github.com/user-attachments/assets/082cd324-801b-490a-8ee3-8080eb5f2161)
 

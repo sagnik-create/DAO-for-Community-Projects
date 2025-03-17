@@ -26,5 +26,6 @@ The DAO for Community Projects aims to decentralize decision-making and empower 
 - Transparent decision-making process
 - Smart contract execution of approved initiatives
 - Community-driven governance
-- Contract address = 0xd9145CCE52D386f254917e481eB44e9943F39138
+## Contract address
+0xd9145CCE52D386f254917e481eB44e9943F39138
 

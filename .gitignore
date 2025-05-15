@@ -1,0 +1,25 @@
+# Node dependencies
+node_modules/
+.env
+
+# Build output
+dist/
+build/
+artifacts/
+cache/
+out/
+
+# Hardhat local blockchain files
+*.log
+*.pid
+
+# IDE settings
+.vscode/
+.DS_Store
+
+# OS files
+Thumbs.db
+
+# Coverage & test artifacts
+coverage/
+*.tsbuildinfo

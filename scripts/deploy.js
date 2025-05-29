@@ -1,17 +1,22 @@
-// scripts/deploy.js
-
-const hre = require("hardhat");
+const { ethers } = require("hardhat");
 
 async function main() {
-  const MyContract = await hre.ethers.getContractFactory("MyContract");
+  // Get the ContractFactory for MyContract
+  const MyContract = await ethers.getContractFactory("MyContract");
 
-  // Pass constructor argument here
-  const myContract = await MyContract.deploy("Initial data");
+  // Deploy the contract with constructor argument
+  const contract = await MyContract.deploy("Initial DAO Data");
 
-  console.log("MyContract deployed to:", myContract.target);
+  // Wait for deployment to finish
+  await contract.waitForDeployment();
+
+  // Print the deployed contract address
+  console.log("MyContract deployed to:", contract.target);
 }
 
-main().catch((error) => {
-  console.error("Deployment failed:", error);
-  process.exitCode = 1;
-});
+main()
+  .then(() => process.exit(0))
+  .catch((error) => {
+    console.error("Deployment failed:", error);
+    process.exit(1);
+  });

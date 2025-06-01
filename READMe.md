@@ -1,7 +1,3 @@
-Here's your updated and rewritten README for the **DAO for Community Projects**, integrating the "How It Works" section in a clean and structured manner:
-
----
-
 # 🏛️ DAO for Community Projects
 
 ## 🚀 Project Title

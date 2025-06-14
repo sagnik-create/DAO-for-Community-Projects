@@ -116,7 +116,7 @@ The core of the project is an Ethereum smart contract that enables a simple DAO 
 ![Screenshot 2025-06-01 202154](https://github.com/user-attachments/assets/4be41a4c-4738-4463-b7e3-7e5bc93fccf3)
 
 ![image](https://github.com/user-attachments/assets/082cd324-801b-490a-8ee3-8080eb5f2161)
-![image](https://github.com/user-attachments/assets/1b18b1fb-84e0-4896-b2e9-b6f71ef6ef55)
+![Contract Image](https://github.com/user-attachments/assets/c30b8d11-b22c-4ea9-9b90-0c99ce140a17)
 
 
 ---
